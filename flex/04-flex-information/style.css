@@ -12,6 +12,13 @@ img {
   font-weight: 900;
 }
 
+.icons {
+  display: flex;
+  padding: 8px;
+  justify-content: space-between;
+  flex-basis: 200px;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
